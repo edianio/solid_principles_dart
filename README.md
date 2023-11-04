@@ -1,2 +1,2 @@
-# solid_principles_dart
-Some basic examples of SOLID principles in Dart language.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
